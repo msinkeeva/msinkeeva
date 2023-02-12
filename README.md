@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maria. I'm from Astata, Kazakhstan and I study fron-ent development</p>
+<p align="left">My name is Maria. I'm from Astana, Kazakhstan and I study fron-ent development</p>
 
 ###
 
